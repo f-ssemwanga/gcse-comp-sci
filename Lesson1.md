@@ -132,7 +132,7 @@ Enhance the program to get information from the user:
 def user_input_demo():
     """Demonstrates getting input from users"""
     
-    name = input("What should I call you? ")
+    name = input("Enter your name ")
     age_string = input("How old are you? ")
     
     # Convert string to integer for calculations
@@ -212,7 +212,11 @@ Write a program that outputs your name in digital/ASCII art style.
 
 **Example Output:**
 ```
-FRANCIS
+ _____                     _     
+|  ___| __ __ _ _ __   ___(_)___ 
+| |_ | '__/ _` | '_ \ / __| / __|
+|  _|| | | (_| | | | | (__| \__ \
+|_|  |_|  \__,_|_| |_|\___|_|___/
 ```
 
 **Requirements:**
@@ -220,6 +224,7 @@ FRANCIS
 - Display it in ASCII art format  
 - Use subroutines to organize your code  
 - Include proper documentation  
+Use this resource [ASCI ART](https://www.asciiart.eu/text-to-ascii-art#google_vignette)
 
 <details>
 <summary>💡 Hint</summary>

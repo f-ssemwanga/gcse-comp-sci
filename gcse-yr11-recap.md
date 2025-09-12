@@ -1,7 +1,5 @@
 # GCSE Computer Science Year 11 Recap Tasks
 
-## AQA Specification Skills Review
-
 ### Essential Programming Concepts - Quick Reference
 
 #### Variables and Data Types
@@ -89,6 +87,7 @@ whole_division = 17 // 5    # integer division (gives 3)
 ------------------------------------------------------------------------
 
 ## Programming Challenge Tasks
+## Take a snip of each challenge and add it to a notebook page titled "Recap Challenges"
 
 ### 🏆 Challenge 1: Rectangle Perimeter Calculator
 

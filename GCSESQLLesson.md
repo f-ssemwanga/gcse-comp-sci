@@ -20,7 +20,7 @@ SQL (Structured Query Language) is a programming language used to communicate wi
 ---
 
 ##  Task 1: SQLZoo Practice - SELECT Basics
-Go to **SQLZoo Tutorial 0**  
+Go to [**SQLZoo Tutorial 0**](https://sqlzoo.net/wiki/SQL_Tutorial)  
 Complete exercises 1-3 to understand:
 
 ```sql

@@ -198,7 +198,7 @@ Write a program that outputs a virtual dice showing the number 5:
 - Include docstring explaining what the program does  
 - Add appropriate comments  
 #### Add evidence to your classnotebook: Programming Skills --> Programming 101
-#### Add a title and a snip showing code and output - make sure code works
+#### Add a title and a snip showing code and output - make sure your code works first
 <details>
 <summary>💡 Hint</summary>
 Use multiple print statements with the same characters repeated.
@@ -228,7 +228,7 @@ Write a program that outputs your name in digital/ASCII art style.
 Use this resource [ASCI ART](https://www.asciiart.eu/text-to-ascii-art#google_vignette)
 
 #### Add evidence to your classnotebook: Programming Skills --> Programming 101
-#### Add a title and a snip showing code and output - make sure code works
+#### Add a title and a snip showing code and output - make sure your code works first
 <details>
 <summary>💡 Hint</summary>
 Research "Text to ASCII art generators" for inspiration, then recreate the pattern in Python.
@@ -252,7 +252,7 @@ The sum of 5 and 12 is 17
 - Format output clearly  
 - Include input validation (advanced)  
 #### Add evidence to your classnotebook: Programming Skills --> Programming 101
-#### Add a title and a snip showing code and output - make sure code works
+#### Add a title and a snip showing code and output - make sure your code works first
 ---
 
 ### Challenge 4: Test Marks Calculator  
@@ -271,7 +271,7 @@ The Average of your 3 test marks is 67
 - Handle the math correctly  
 - Format output professionally  
 #### Add evidence to your classnotebook: Programming Skills --> Programming 101
-#### Add a title and a snip showing code and output - make sure code works
+#### Add a title and a snip showing code and output - make sure your code works first
 ---
 
 ### Challenge 5: Toy Car Worker Wage Calculator  
@@ -291,7 +291,7 @@ Your day's wage is £67.50
 - Calculate total wage correctly  
 - Display result with proper currency formatting  
 #### Add evidence to your classnotebook: Programming Skills --> Programming 101
-#### Add a title and a snip showing code and output - make sure code works
+#### Add a title and a snip showing code and output - make sure your code works first
 ---
 
 ### Challenge 6: Volume Calculator  
@@ -309,7 +309,7 @@ The volume of your box which is 120cm by 80cm by 50cm is 480,000 cubic centimetr
 - Calculate volume (length × width × height)  
 - Format large numbers with commas  
 #### Add evidence to your classnotebook: Programming Skills --> Programming 101
-#### Add a title and a snip showing code and output - make sure code works
+#### Add a title and a snip showing code and output - make sure your code works first
 ---
 
 ### Challenge 7: Pocket Money Calculator  
@@ -330,7 +330,7 @@ You had £--- in your account, now you have £--- left
 - Calculate and display remaining money  
 - Handle negative balances appropriately  
 #### Add evidence to your classnotebook: Programming Skills --> Programming 101
-#### Add a title and a snip showing code and output - make sure code works
+#### Add a title and a snip showing code and output - make sure your code works first
 
 ---
 

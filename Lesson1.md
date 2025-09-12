@@ -315,6 +315,10 @@ Track weekly expenses and calculate remaining pocket money.
 This week you spend £--- on your phone bill, £--- on food, £--- on seeing friends
 You had £--- in your account, now you have £--- left
 ```
+#### Add evidence to your classnotebook: Programming Skills --> Programming 101
+#### Evidence requirements
+- Add a challenge  name and number e.g Challenge 7 Pocket Money Calc
+- Take a snip which shows your output and the code
 
 **Requirements:**
 - Ask for weekly pocket money amount  
@@ -343,7 +347,7 @@ You had £--- in your account, now you have £--- left
 ### Advanced Level
 - [ ] Implements input validation  
 - [ ] Uses return values effectively  
-- [ ] Creates modular, well-organized code  
+- [ ] Creates modular, well-organised code  
 - [ ] Adds creative enhancements  
 - [ ] Helps other students debug their code  
 
@@ -388,8 +392,3 @@ You had £--- in your account, now you have £--- left
 - **Assistant Panel:** Provides helpful error explanations  
 
 ---
-
-## 📚 Additional Resources
-- [Python.org Official Tutorial](https://docs.python.org/3/tutorial/)  
-- [Real Python Beginner Guides](https://realpython.com/start-here/)  
-- [Automate the Boring Stuff](https://automatetheboringstuff.com/)  

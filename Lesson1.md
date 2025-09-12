@@ -185,11 +185,11 @@ Write a program that outputs a virtual dice showing the number 5:
 
 ```
 ○○○○○○○○○○○○
-○ ●  ●  ● ○
-○           ○
-○ ●  ●  ● ○
-○           ○
-○ ●  ●  ● ○
+○ ●  ●  ●  ○
+○          ○
+○ ●  ●  ●  ○
+○          ○
+○ ●  ●  ●  ○
 ○○○○○○○○○○○○
 ```
 

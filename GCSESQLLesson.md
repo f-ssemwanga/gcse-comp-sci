@@ -189,12 +189,13 @@ CREATE TABLE Books (
 **Members Table:**
 ```sql
 CREATE TABLE Members (
-    Member_ID TEXT PRIMARY KEY,
-    First_Name TEXT NOT NULL,
-    Last_Name TEXT NOT NULL,
-    Email TEXT UNIQUE NOT NULL,
-    Join_Date DATE,
+    Member_ID TEXT PRIMARY KEY,                          -- must be unique
+    First_Name TEXT NOT NULL CHECK (length(First_Name) > 0),   -- cannot be empty string
+    Last_Name TEXT NOT NULL CHECK (length(Last_Name) > 0),     -- cannot be empty string
+    Email TEXT UNIQUE NOT NULL CHECK (Email LIKE '%@%.%'),     -- must contain @ and .
+    Join_Date DATE NOT NULL DEFAULT (date('now')),             -- cannot be null, defaults to today
     Member_Type TEXT DEFAULT 'Standard'
+        CHECK (Member_Type IN ('Standard', 'Student', 'Staff', 'Premium')) -- only allowed values
 );
 ```
  **Task**: Create these tables in DB Browser (Execute SQL tab)

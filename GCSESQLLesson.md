@@ -159,7 +159,7 @@ Complete exercises 1-8 practicing:
 
 ##  Practical: SQLite DB Browser
 **Setup**
-1. Download: DB Browser for SQLite  
+1. Download: DB Browser for SQLite  from the company portal
 2. Install and open the application  
 3. Create New Database: `library_system.db`
 
